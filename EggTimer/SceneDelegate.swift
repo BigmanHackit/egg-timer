@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  EggTimer
+//  Egg Timer
 //
-//  Created by Angela Yu on 08/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Firebrand Dev on 23/05/2025.
+//  Copyright © 2025 Firebrand Dev. All rights reserved.
 //
 
 import UIKit
